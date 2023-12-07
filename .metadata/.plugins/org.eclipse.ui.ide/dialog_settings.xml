@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Dev\JavaCourse\StudentMngm"/>
+			<item value="D:\Dev\Netbeans\StudentMngm"/>
+			<item value="C:\Users\ADMIN\Downloads\compression"/>
+			<item value="C:\Users\ADMIN\Downloads\BTreeDisplayCSD"/>
+			<item value="C:\Users\ADMIN\Downloads\Bản sao CandidatemanaSys"/>
+			<item value="D:\Dev\JavaCourse\33.PracticeMiniGame"/>
+			<item value="D:\Dev\JavaLAB211"/>
+			<item value="D:\Dev\JavaCourse\12.Mang"/>
+			<item value="D:\ex1.1"/>
+			<item value="D:\Dev\JavaCourse\34.TimeFunction"/>
+			<item value="D:\Dev\JavaCourse\31.PracticeSapxepSV"/>
+			<item value="D:\Dev\JavaCourse\30.ArrayAdvanced2"/>
+			<item value="D:\Dev\JavaCourse\28.ArrayAdvanced"/>
+			<item value="D:\Dev\JavaCourse\29.compareTo"/>
+			<item value="D:\Dev\JavaCourse\35.Enum"/>
+			<item value="D:\Dev\JavaCourse\FPT_03_Lab2-2"/>
+			<item value="D:\Dev\JavaCourse\Lab2"/>
+			<item value="D:\Dev\JavaCourse\36.ArrayList"/>
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="619"/>
+		<item key="DIALOG_Y_ORIGIN" value="91"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="642"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

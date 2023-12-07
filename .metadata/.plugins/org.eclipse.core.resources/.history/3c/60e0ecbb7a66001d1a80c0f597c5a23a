@@ -1,0 +1,14 @@
+
+
+public class test {
+	
+	Object obj = new hehe() {
+		
+		@Override
+		public void haha() {
+			System.out.println("kaka");
+			
+		}
+	};
+	
+}

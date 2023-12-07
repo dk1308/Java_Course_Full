@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01.HelloWorld/src"/>
+	<classpathentry kind="src" path="02.Gan gia tri/src"/>
+	<classpathentry kind="src" path="03.Ep kieu/src"/>
+	<classpathentry kind="src" path="04.Nhap xuat/src"/>
+	<classpathentry kind="src" path="05.Toan tu/src"/>
+	<classpathentry kind="src" path="06.Toan 1 ngoi/src"/>
+	<classpathentry kind="src" path="07.So sanh/src"/>
+	<classpathentry kind="src" path="08.Toan tu so sanh/src"/>
+	<classpathentry kind="src" path="09.Lop math/src"/>
+	<classpathentry kind="src" path="10.If else/src"/>
+	<classpathentry kind="src" path="11.Vong lap/src"/>
+	<classpathentry kind="src" path="12.Mang/src"/>
+	<classpathentry kind="src" path="13.UsingUML/src"/>
+	<classpathentry kind="src" path="14.ReceiptOfCoffee/src"/>
+	<classpathentry kind="src" path="15.HomeWork/src"/>
+	<classpathentry kind="src" path="16.SetAndGet/src"/>
+	<classpathentry kind="src" path="17.BookManage/src"/>
+	<classpathentry kind="src" path="18.MovieManage/src"/>
+	<classpathentry kind="src" path="19.SinhVien/src"/>
+	<classpathentry kind="src" path="20.Inheritance/src"/>
+	<classpathentry kind="src" path="21.Overriding/src"/>
+	<classpathentry kind="src" path="22.OverLoading/src"/>
+	<classpathentry kind="src" path="23.Abstract/src"/>
+	<classpathentry kind="src" path="24.Practice20-23/src"/>
+	<classpathentry kind="src" path="25.Interface/src"/>
+	<classpathentry kind="src" path="26.Package/src"/>
+	<classpathentry kind="src" path="27a.String/src"/>
+	<classpathentry kind="src" path="27b.String/src"/>
+	<classpathentry kind="src" path="27c.String/src"/>
+	<classpathentry kind="src" path="27d.String/src"/>
+	<classpathentry kind="src" path="28.ArrayAdvanced/src"/>
+	<classpathentry kind="src" path="29.compareTo/src"/>
+	<classpathentry kind="src" path="30.ArrayAdvanced2/src"/>
+	<classpathentry kind="src" path="31.PracticeSapxepSV/src"/>
+	<classpathentry kind="src" path="32.Split/src"/>
+	<classpathentry kind="src" path="33.PracticeMiniGame/src"/>
+	<classpathentry kind="src" path="34.TimeFunction/src"/>
+	<classpathentry kind="src" path="35.Enum/src"/>
+	<classpathentry kind="src" path="Example/src"/>
+	<classpathentry kind="src" path="FPT_01_Lab1part1/src"/>
+	<classpathentry kind="src" path="FPT_02_Lab1part2/src"/>
+	<classpathentry kind="src" path="FPT_03_Lab2-2/src"/>
+	<classpathentry kind="src" path="Lab2/src"/>
+	<classpathentry kind="output" path="01.HelloWorld/bin"/>
+</classpath>

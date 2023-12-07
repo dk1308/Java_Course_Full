@@ -1,0 +1,18 @@
+
+public class test {
+	public static void main(String[] args) {
+		try {
+			throw new exc();
+		} catch (exc e) {
+			System.out.println("1");
+		}
+		finally {
+			System.out.println("2");
+		}
+	}
+	
+	static void y(String y)
+	{
+		y ="hello";
+	}
+}

@@ -1,0 +1,9 @@
+import java.util.Scanner;
+
+public class test extends exc{
+	
+	public static void main(String[] args) {
+		Scanner sc = new Sc
+	}
+	
+}

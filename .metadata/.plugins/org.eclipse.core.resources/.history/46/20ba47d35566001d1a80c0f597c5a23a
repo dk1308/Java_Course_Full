@@ -1,0 +1,14 @@
+
+public class test {
+	public static void main(String[] args) {
+		Object obj1 = new Object();
+		Object obj2 = obj1;
+		if (obj2.equals(obj1)) {
+			System.out.println("a");
+		}
+		if (obj1 == obj2) {
+			System.out.println("b");
+		}
+		System.out.println("c");
+	}
+}

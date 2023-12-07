@@ -1,0 +1,4 @@
+
+public class exc {
+	int mark=0;
+}

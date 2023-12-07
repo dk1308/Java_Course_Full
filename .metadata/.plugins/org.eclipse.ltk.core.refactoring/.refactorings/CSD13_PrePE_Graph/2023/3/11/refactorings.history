@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;module-info.java&apos; to &apos;Graph.java&apos;&#x0D;&#x0A;- Original project: &apos;CSD13_PrePE_Graph&apos;&#x0D;&#x0A;- Original element: &apos;module-info.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Graph.java&apos;" description="Rename compilation unit &apos;module-info.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{module-info.java" name="Graph.java" references="false" stamp="1678760516084" version="1.0"/>
+</session>

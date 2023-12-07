@@ -1,0 +1,4 @@
+Hello World
+I'm Khoa
+Test write a object!
+Employee [name=Khoa, age=19, salary=100000000]
